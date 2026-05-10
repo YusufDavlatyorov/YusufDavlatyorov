@@ -1,123 +1,83 @@
-# Hi there 👋 I'm Yusuf Davlatyorov
-
 <div align="center">
 
-# Python Backend Developer
+# Yusuf Davlatyorov
 
-### Django • DRF • FastAPI • Docker • PostgreSQL • Redis
+### Python Backend Engineer • API Developer • System Architecture Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Backend+Developer;Django+%26+FastAPI+Developer;Building+Scalable+REST+APIs;Docker+%7C+Redis+%7C+PostgreSQL;Telegram+Bot+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Backend+Engineer;Django+%7C+DRF+%7C+FastAPI;Designing+Scalable+Systems;Docker+%7C+Redis+%7C+PostgreSQL;Telegram+Bot+Developer;Building+Production-Ready+Applications" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 👨‍💻 About Me
 
-* 🔭 Backend Developer focused on scalable web applications
-* ⚡ Experienced with Django MVT, Django REST Framework, and FastAPI
-* 🐳 Working with Docker, Redis, PostgreSQL, SQLite
-* 🤖 Building Telegram Bots using Aiogram
-* 🧠 Interested in AI integrations and backend architecture
-* 🖥️ Comfortable working with Linux servers and deployment
-* 🌱 Continuously improving software engineering skills
-* 🎯 Goal: Become a world-class backend engineer
+Backend engineer focused on designing scalable, maintainable, and production-ready systems using modern Python technologies.
 
----
+Experienced in backend development, REST API architecture, Telegram bot ecosystems, database optimization, containerization, and Linux server environments.
 
-# 🛠️ Tech Stack
+Passionate about clean architecture, performance optimization, and building reliable backend infrastructures capable of scaling in real-world production environments.
 
-## Backend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,sqlite,redis" />
-</p>
-
-## DevOps & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,bash,vscode" />
-</p>
-
-## Frontend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,cpp" />
-</p>
+Currently improving expertise in:
+- Distributed systems
+- Scalable backend architecture
+- DevOps workflows
+- System design
+- High-performance APIs
 
 ---
 
-# 📊 GitHub Stats
+# ⚡ Core Technologies
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YusufDavlatyorov&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YusufDavlatyorov&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,sqlite,redis,docker,linux,git,github,bash,vscode,html,css,tailwind,cpp" />
 
 </div>
 
 ---
 
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YusufDavlatyorov&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YusufDavlatyorov&theme=tokyonight&no-frame=true&row=1&column=7" />
-
-</div>
-
----
-
-# 📌 Featured Skills
+# 🏗️ Backend Expertise
 
 ```python
-class YusufDavlatyorov:
+class BackendEngineer:
+
     def __init__(self):
-        self.role = "Backend Developer"
-        self.languages = ["Python", "C++"]
-        self.backend = ["Django", "DRF", "FastAPI"]
-        self.databases = ["PostgreSQL", "SQLite", "Redis"]
-        self.tools = ["Docker", "Git", "Linux"]
-        self.telegram = "Aiogram"
-        self.learning = ["System Design", "Scalable Architecture"]
+        self.name = "Yusuf Davlatyorov"
+
+        self.specialization = [
+            "Backend Development",
+            "REST API Design",
+            "System Architecture",
+            "Telegram Bot Development",
+            "Database Design"
+        ]
+
+        self.backend_stack = {
+            "frameworks": [
+                "Django",
+                "Django REST Framework",
+                "FastAPI"
+            ],
+
+            "databases": [
+                "PostgreSQL",
+                "SQLite",
+                "Redis"
+            ],
+
+            "devops": [
+                "Docker",
+                "Linux",
+                "Git",
+                "GitHub"
+            ]
+        }
 
     def current_focus(self):
-        return "Building powerful backend systems"
-```
-
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-<a href="https://github.com/YusufDavlatyorov" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
-</a>
-</p>
-
----
-
-# 💡 Favorite Quote
-
-> “First, solve the problem. Then, write the code.” – John Johnson
-
----
-
-<div align="center">
-
-### Thanks for visiting my profile 🚀
-
-<img src="https://komarev.com/ghpvc/?username=YusufDavlatyorov&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-
-</div>
+        return [
+            "Scalable APIs",
+            "Microservices",
+            "Production Infrastructure",
+            "System Design"
+        ]
