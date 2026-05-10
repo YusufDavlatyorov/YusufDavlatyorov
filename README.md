@@ -2,82 +2,60 @@
 
 # Yusuf Davlatyorov
 
-### Python Backend Engineer • API Developer • System Architecture Enthusiast
+### Backend Engineer • System Designer • API Architect
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Backend+Engineer;Django+%7C+DRF+%7C+FastAPI;Designing+Scalable+Systems;Docker+%7C+Redis+%7C+PostgreSQL;Telegram+Bot+Developer;Building+Production-Ready+Applications" />
-
-</div>
-
----
-
-# 👨‍💻 About Me
-
-Backend engineer focused on designing scalable, maintainable, and production-ready systems using modern Python technologies.
-
-Experienced in backend development, REST API architecture, Telegram bot ecosystems, database optimization, containerization, and Linux server environments.
-
-Passionate about clean architecture, performance optimization, and building reliable backend infrastructures capable of scaling in real-world production environments.
-
-Currently improving expertise in:
-- Distributed systems
-- Scalable backend architecture
-- DevOps workflows
-- System design
-- High-performance APIs
-
----
-
-# ⚡ Core Technologies
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,sqlite,redis,docker,linux,git,github,bash,vscode,html,css,tailwind,cpp" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Python+Backend+Engineer;Django+%7C+DRF+%7C+FastAPI;Scalable+System+Design;Docker+%7C+Redis+%7C+PostgreSQL;Telegram+Bot+%26+API+Development;Building+Production-Grade+Systems" />
 
 </div>
 
 ---
 
-# 🏗️ Backend Expertise
+# 🧠 About Me
+
+Backend engineer focused on designing **scalable, reliable and high-performance systems**.
+
+I specialize in building backend architectures using Python ecosystem tools, with strong focus on API design, database optimization, and production deployment.
+
+I enjoy working close to system level problems, optimizing performance, and turning complex ideas into clean backend solutions.
+
+---
+
+# ⚙️ Core Stack
+
+**Backend:** Django • DRF • FastAPI  
+**Databases:** PostgreSQL • Redis • SQLite  
+**DevOps:** Docker • Linux • Git • GitHub  
+**Other:** Aiogram • REST APIs • Server Management  
+**Frontend basics:** HTML • CSS • Tailwind  
+**Languages:** Python • C++
+
+---
+
+# 🏗️ Engineering View
 
 ```python
-class BackendEngineer:
+class EngineerProfile:
 
     def __init__(self):
         self.name = "Yusuf Davlatyorov"
+        self.role = "Backend Engineer"
 
-        self.specialization = [
-            "Backend Development",
-            "REST API Design",
-            "System Architecture",
-            "Telegram Bot Development",
-            "Database Design"
+        self.focus = [
+            "Scalable Backend Systems",
+            "REST API Architecture",
+            "System Design",
+            "Database Optimization",
+            "Production Deployment"
         ]
 
-        self.backend_stack = {
-            "frameworks": [
-                "Django",
-                "Django REST Framework",
-                "FastAPI"
-            ],
-
-            "databases": [
-                "PostgreSQL",
-                "SQLite",
-                "Redis"
-            ],
-
-            "devops": [
-                "Docker",
-                "Linux",
-                "Git",
-                "GitHub"
-            ]
-        }
-
-    def current_focus(self):
-        return [
-            "Scalable APIs",
-            "Microservices",
-            "Production Infrastructure",
-            "System Design"
+        self.experience_stack = [
+            "Django / DRF",
+            "FastAPI",
+            "Docker",
+            "PostgreSQL / Redis",
+            "Linux Servers",
+            "Telegram Bots (Aiogram)"
         ]
+
+    def mindset(self):
+        return "Build systems that scale, not just code that works"
